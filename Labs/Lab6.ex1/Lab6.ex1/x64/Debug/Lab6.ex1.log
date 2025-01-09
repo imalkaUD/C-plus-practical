@@ -1,0 +1,10 @@
+﻿  Lab6.ex1.cpp
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(8,2): error C2065: 'Employee': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(8,11): error C2146: syntax error: missing ';' before identifier 'emp1'
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(8,11): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(10,2): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(11,2): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(12,2): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(14,2): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(15,2): error C2065: 'emp1': undeclared identifier
+C:\Users\User\Desktop\sem 2 pra\ooc pra\ass2 pastp\Lab6.ex1\Lab6.ex1\Lab6.ex1.cpp(16,2): error C2065: 'emp1': undeclared identifier
